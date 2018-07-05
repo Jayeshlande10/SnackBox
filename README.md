@@ -1,0 +1,2 @@
+# SnackBox
+Mean Stack Application
